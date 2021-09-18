@@ -1,1 +1,2 @@
 # hello-world
+Hello! This being my 2nd year in college I am defenitly looking to pin point a career this year. Folowing my design foundations program I was certain that I wanted to do something with technology and creating so I ended up taking a web devlopoment course. Now having spend a bit of time in the course and doing some research I have intrest in a few careers such as software engineer or UX/UI desinger. Following this year I am definilty looking towards taking concrete steps towards those goals. 
